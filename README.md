@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🧥 I’m building **[ClosetLink](https://www.closetlink.shop/)** — your digital wardrobe and local fashion swapping app  
+- 🧥 I’m currently working on **[ClosetLink](https://www.closetlink.shop/)**, a digital wardrobe where people can buy and sell items
 - 🌱 I’m constantly growing in **mobile development, AI, and backend engineering**  
 - 🧠 I enjoy building systems that solve real problems  
 - 💬 Ask me about **software development, machine learning, mobile apps, or backend APIs**  
@@ -37,20 +37,6 @@
 </p>
 
 ---
-
-## 🔥 Featured Projects
-
-- 🧥 **ClosetLink** — your digital closet + swapping platform  
-  👉 https://www.closetlink.shop/
-
-- 🔋 **PulseBat ML Prediction System** — battery SoH prediction using regression models  
-
-- 🌦 **Streamlit Weather Forecast App** — weather predictions using openweathermap API  
-
-- 🗂 **University fullstack course projects** — DBMS, Django, Node APIs, ML systems  
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
