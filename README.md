@@ -16,7 +16,8 @@
 - 🧠 I enjoy building systems that solve real problems  
 - 💬 Ask me about **software development, machine learning, mobile apps, or backend APIs**  
 - 📫 Reach me at: **ayomikunadeniji63@gmail.com**  
-- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ayomikun-adeniji/)**  
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ayomikun-adeniji/)**
+- 🌐 Visit my website: **[Ayomikun Adeniji](https://www.ayoadeniji.site/)**
 
 ---
 
