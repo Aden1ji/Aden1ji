@@ -14,20 +14,20 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering student at **Ontario Tech University** who likes building products people actually use. My work spans mobile development, backend APIs, data engineering, and UX.
+I'm a Software Engineering student at **Ontario Tech University** who likes building products people actually use. My work spans mobile development, backend APIs, data engineering, and UI/UX.
 
-- 🧥 Building **[ClosetLink](https://www.closetlink.shop/)**, a marketplace for buying and selling preloved fashion
+- 🧥 Building **[ClosetLink](https://www.closetlink.shop/)**, a marketplace for swapping, buying and selling fashion
 - 🌱 Leveling up in **mobile development, AI, and backend engineering**
 - 🧠 I enjoy designing systems that solve real problems end to end
 - 💬 Ask me about **mobile apps, backend APIs, or machine learning**
-- 🤝 Open to **internship and co op opportunities**
+- 🤝 Open to **internship and co-op opportunities**
 
 ---
 
 ## 🚀 Featured Project
 
 ### [ClosetLink](https://www.closetlink.shop/)
-A digital wardrobe and marketplace where people can list, discover, and buy preloved clothing. Built solo, from design to deployment.
+A digital wardrobe and marketplace where people can list, discover, swap, buy, and sell fashion items. Built solo, from design to deployment.
 
 `React Native` `TypeScript` `Supabase` `Node.js`
 
