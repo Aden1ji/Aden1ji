@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Aden1ji.Aden1ji&left_color=gray&right_color=0e75b6&left_text=Profile%20views" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Aden1ji?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
