@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ayo</h1>
 
-<h3 align="center">🚀 Software Developer | 📱 Mobile App Builder | 🌱 Lifelong Learner</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Mobile+App+Builder;Founder+of+ClosetLink;Always+shipping+something" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aden1ji&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -11,77 +15,75 @@
 
 ## 👨‍💻 About Me
 
-- 🧥 I’m currently working on **[ClosetLink](https://www.closetlink.shop/)**, a digital wardrobe where people can buy and sell items
-- 🌱 I’m constantly growing in **mobile development, AI, and backend engineering**  
-- 🧠 I enjoy building systems that solve real problems  
-- 💬 Ask me about **software development, machine learning, mobile apps, or backend APIs**  
-- 📫 Reach me at: **ayomikunadeniji63@gmail.com**  
-- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ayomikun-adeniji/)**
-- 🌐 Visit my website: **[Ayomikun Adeniji](https://www.ayoadeniji.site/)**
+I'm a Software Engineering student at **Ontario Tech University** who likes building products people actually use. My work spans mobile development, backend APIs, data engineering, and UX.
+
+- 🧥 Building **[ClosetLink](https://www.closetlink.shop/)**, a marketplace for buying and selling preloved fashion
+- 🌱 Leveling up in **mobile development, AI, and backend engineering**
+- 🧠 I enjoy designing systems that solve real problems end to end
+- 💬 Ask me about **mobile apps, backend APIs, or machine learning**
+- 🤝 Open to **internship and co op opportunities**
 
 ---
 
-## 🛠 Languages and Tools
+## 🚀 Featured Project
 
-<p align="center">
+### [ClosetLink](https://www.closetlink.shop/)
+A digital wardrobe and marketplace where people can list, discover, and buy preloved clothing. Built solo, from design to deployment.
 
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <!-- TypeScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <!-- Node.js -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <!-- Firebase -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
-  <!-- Supabase -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40"/>
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <!-- AWS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-  <!-- MongoDB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <!-- PostgreSQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <!-- MySQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <!-- Linux -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+`React Native` `TypeScript` `Supabase` `Node.js`
 
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
 
+**Frameworks and Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,supabase" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+**Tools and Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,figma" />
+</p>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aden1ji&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aden1ji&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aden1ji&hide_border=true&theme=tokyonight" />
+</p>
+
+---
+
 ## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayomikun-adeniji/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.ayoadeniji.site/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
   <a href="mailto:ayomikunadeniji63@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.closetlink.shop/">
-    <img src="https://img.shields.io/badge/ClosetLink-6C63FF?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ClosetLink-6C63FF?style=for-the-badge&logo=shopify&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aden1ji&theme=radical&margin-w=10" />
-</p>
-
----
